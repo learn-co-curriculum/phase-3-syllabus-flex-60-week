@@ -34,7 +34,7 @@ the right pace. The lessons marked with a ⭐️ are **milestones** that are use
 to check your understanding of the material you've learned. If you feel you're
 falling behind, make sure to communicate with your instructor.
 
-## Week 27 - 29
+## Week 25 - 27
 
 This week is all about learning the fundamentals of Ruby as a language.
 Transitioning from one language to another is an important skill to have as a
@@ -65,7 +65,7 @@ this phase, it's ok to skip some of the lessons and move ahead.
 - Procedural Ruby: Working with Data Structures (14)
   - ⭐️ Iterating Over Hashes - Apples and Holidays Lab
 
-## Week 30 - 32
+## Week 28 - 30
 
 Ruby is at its core a language for **object-oriented programming**. You've seen
 some concepts related to object orientation in Phase 1 in JavaScript; in this
@@ -96,7 +96,7 @@ gain proficiency in the material later in this phase and the next.
   - ⭐️ Mass Assignment Quiz
 - Configuring Ruby Applications (4)
 
-## Week 33 - 35
+## Week 31 - 33
 
 With those Ruby skills under your belt, it's time to start learning the tools of
 the trade for a backend developer: working with databases, and setting up a
@@ -133,7 +133,7 @@ after completing the Active Record Associations section.
   - ⭐️ Rack and the Internet Quiz
 - Rack and React - Practice Labs (1)
 
-## Week 36 - 38
+## Week 34 - 36
 
 The time has come for your first full-stack project! In this phase, you'll be
 building out a React frontend application once more, but you'll also have
