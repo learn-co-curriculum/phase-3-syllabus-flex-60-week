@@ -1,4 +1,4 @@
-# Phase 3 Syllabus: Flex Program, 20 Week Pace
+# Phase 3 Syllabus: Flex Program, 60 Week Pace
 
 ## Learning Objectives
 
