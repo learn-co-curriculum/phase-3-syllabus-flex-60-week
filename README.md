@@ -113,15 +113,6 @@ read, update and delete data. You'll also learn how to use Active Record to
 connect between multiple classes and establish one-to-many and many-to-many
 relationships.
 
-The code challenge covers the material on Active Record, and it will also be an
-important tool for Phase 4 and your final project, so make sure to spend a good
-amount of time with this material.
-
-**Note for students taking the code challenge**: the assessment will cover all
-the material before **Sinatra**. It's recommended that you take the code
-challenge after completing the Active Record Associations section and working on
-some Additional Practice exercises.
-
 **Total Assignments: (24)**
 
 - Using Active Record (13)
