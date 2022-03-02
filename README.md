@@ -22,7 +22,7 @@ next project can take advantage of all the benefits of full-stack development.
 By the end of the phase, you will be able to:
 
 - Understand the fundamentals of Ruby as a language, including principles of
-  object oriented programming
+  object-oriented programming
 - Understand the characteristics of a relational database
 - Perform CRUD (Create Read Update Delete) actions with a database via an
   Object-Relational Mapper
@@ -44,7 +44,7 @@ to learn a new language as well), so use this time to get to know and love Ruby.
 You should be familiar with all the concepts from this week after having seen
 them in JavaScript, so focus on the **syntax** and what makes Ruby unique.
 
-After learning the basics of the language, it's time to learn Object Oriented
+After learning the basics of the language, it's time to learn Object-Oriented
 Ruby. At its core, Ruby is a language for **object-oriented programming**.
 You've seen some concepts related to object orientation in Phase 1 in
 JavaScript; in this phase, you'll explore those concepts in more depth. You also
@@ -70,10 +70,11 @@ gain proficiency in the material later in this phase and the next.
   - ⭐️ Self Quiz
 - Topics in OO - Class Variables and Methods in Ruby (9)
   - ⭐️ Class Variables and Methods Quiz
+- (Optional) Additional Practice: OO Ruby
 
 ## Week 28 - 30
 
-This week, you'll wrap up the last couple topics on Object Oriented Ruby, and
+This week, you'll wrap up the last couple topics on Object-Oriented Ruby, and
 then get into the next big exciting topic on your programming journey: databases!
 
 You'll start with the fundamentals of SQL to learn how **relational databases**
@@ -94,7 +95,7 @@ prioritize, and focus on the readings over the labs from those sections.
 - Topics in OO - Object Inheritance in Ruby (9)
   - ⭐️ Object Inheritance Quiz
 - Metaprogramming in Ruby (6)
-  - ⭐️ Metaprogramming Quiz
+  - ⭐️ Mass Assignment Quiz
 - Configuring Ruby Applications (4)
 - Getting Started with SQL (13)
   - ⭐️ SQL Quiz
@@ -141,7 +142,7 @@ the project.
 
 **Total Assignments: (11)**
 
-- Using Active Record (11)
+- Web API Basics with Sinatra (11)
   - ⭐️ Sinatra React Lab: Chatterbox
 
 Then, time has come for your first full-stack project! In this phase, you'll be
