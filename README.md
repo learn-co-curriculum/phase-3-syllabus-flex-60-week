@@ -111,35 +111,30 @@ This week is all about Active Record. You'll be using the Active Record library
 as an ORM to connect your Ruby classes to a SQL database so you can create,
 read, update and delete data. You'll also learn how to use Active Record to
 connect between multiple classes and establish one-to-many and many-to-many
-relationships.
+relationships. You'll also learn about Sinatra, which is a great tool for
+creating small web servers. You'll need Sinatra to set up the backend for your
+project, so make sure to take some time with these labs before beginning the
+project.
 
-**Total Assignments: (24)**
+**Total Assignments: (42)**
 
 - Using Active Record (13)
   - ⭐️ Using Active Record Quiz
 - Active Record Associations (6)
   - ⭐️ Active Record Associations Quiz
 - Additional Practice: Active Record (5)
-  - ⭐️ Phase 3 Active Record Mock Code Challenge: Freebie Tracker
+  - ⭐️ Practice Challenge: Theater Work
 - (Optional) Getting Data from Remote Sources (5)
 - (Optional) Scraping (3)
-
-## Week 34 - 36
-
-There's one last section left before project time: Sinatra! Sinatra is a great
-tool for creating small web servers. You'll need Sinatra to set up the backend
-for your project, so make sure to take some time with these labs before beginning
-the project.
-
-**Total Assignments: (11)**
-
 - Web API Basics with Sinatra (11)
   - ⭐️ Sinatra React Lab: Chatterbox
 
-Then, time has come for your first full-stack project! In this phase, you'll be
-building out a React frontend application once more, but you'll also have
-control over the backend by creating your own server using Rack that can handle
-requests from the frontend; communicate with the database using Active Record;
-and send a response in JSON for the frontend to handle.
+## Week 34 - 36
 
-Details for the project can be found in the Milestones module.
+The time has come for your first full-stack project! In this phase, you'll be
+building out a React frontend application once more, but you'll also have
+control over the backend by creating your own server using Sinatra that can
+handle requests from the frontend, communicate with the database using Active
+Record, and send a response in JSON for the frontend to handle.
+
+Details for the project can be found in the Phase 3 Project module.
