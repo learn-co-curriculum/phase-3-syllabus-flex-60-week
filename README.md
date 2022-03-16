@@ -22,7 +22,7 @@ next project can take advantage of all the benefits of full-stack development.
 By the end of the phase, you will be able to:
 
 - Understand the fundamentals of Ruby as a language, including principles of
-  object oriented programming
+  object-oriented programming
 - Understand the characteristics of a relational database
 - Perform CRUD (Create Read Update Delete) actions with a database via an
   Object-Relational Mapper
@@ -44,7 +44,7 @@ to learn a new language as well), so use this time to get to know and love Ruby.
 You should be familiar with all the concepts from this week after having seen
 them in JavaScript, so focus on the **syntax** and what makes Ruby unique.
 
-After learning the basics of the language, it's time to learn Object Oriented
+After learning the basics of the language, it's time to learn Object-Oriented
 Ruby. At its core, Ruby is a language for **object-oriented programming**.
 You've seen some concepts related to object orientation in Phase 1 in
 JavaScript; in this phase, you'll explore those concepts in more depth. You also
@@ -70,10 +70,11 @@ gain proficiency in the material later in this phase and the next.
   - ⭐️ Self Quiz
 - Topics in OO - Class Variables and Methods in Ruby (9)
   - ⭐️ Class Variables and Methods Quiz
+- (Optional) Additional Practice: OO Ruby
 
 ## Week 28 - 30
 
-This week, you'll wrap up the last couple topics on Object Oriented Ruby, and
+This week, you'll wrap up the last couple topics on Object-Oriented Ruby, and
 then get into the next big exciting topic on your programming journey: databases!
 
 You'll start with the fundamentals of SQL to learn how **relational databases**
@@ -94,7 +95,7 @@ prioritize, and focus on the readings over the labs from those sections.
 - Topics in OO - Object Inheritance in Ruby (9)
   - ⭐️ Object Inheritance Quiz
 - Metaprogramming in Ruby (6)
-  - ⭐️ Metaprogramming Quiz
+  - ⭐️ Mass Assignment Quiz
 - Configuring Ruby Applications (4)
 - Getting Started with SQL (13)
   - ⭐️ SQL Quiz
@@ -110,44 +111,30 @@ This week is all about Active Record. You'll be using the Active Record library
 as an ORM to connect your Ruby classes to a SQL database so you can create,
 read, update and delete data. You'll also learn how to use Active Record to
 connect between multiple classes and establish one-to-many and many-to-many
-relationships.
+relationships. You'll also learn about Sinatra, which is a great tool for
+creating small web servers. You'll need Sinatra to set up the backend for your
+project, so make sure to take some time with these labs before beginning the
+project.
 
-The code challenge covers the material on Active Record, and it will also be an
-important tool for Phase 4 and your final project, so make sure to spend a good
-amount of time with this material.
-
-**Note for students taking the code challenge**: the assessment will cover all
-the material before **Sinatra**. It's recommended that you take the code
-challenge after completing the Active Record Associations section and working on
-some Additional Practice exercises.
-
-**Total Assignments: (24)**
+**Total Assignments: (42)**
 
 - Using Active Record (13)
   - ⭐️ Using Active Record Quiz
 - Active Record Associations (6)
   - ⭐️ Active Record Associations Quiz
 - Additional Practice: Active Record (5)
-  - ⭐️ Phase 3 Active Record Mock Code Challenge: Freebie Tracker
+  - ⭐️ Practice Challenge: Theater Work
 - (Optional) Getting Data from Remote Sources (5)
 - (Optional) Scraping (3)
+- Web API Basics with Sinatra (11)
+  - ⭐️ Sinatra React Lab: Chatterbox
 
 ## Week 34 - 36
 
-There's one last section left before project time: Sinatra! Sinatra is a great
-tool for creating small web servers. You'll need Sinatra to set up the backend
-for your project, so make sure to take some time with these labs before beginning
-the project.
-
-**Total Assignments: (11)**
-
-- Using Active Record (11)
-  - ⭐️ Sinatra React Lab: Chatterbox
-
-Then, time has come for your first full-stack project! In this phase, you'll be
+The time has come for your first full-stack project! In this phase, you'll be
 building out a React frontend application once more, but you'll also have
-control over the backend by creating your own server using Rack that can handle
-requests from the frontend; communicate with the database using Active Record;
-and send a response in JSON for the frontend to handle.
+control over the backend by creating your own server using Sinatra that can
+handle requests from the frontend, communicate with the database using Active
+Record, and send a response in JSON for the frontend to handle.
 
-Details for the project can be found in the Milestones module.
+Details for the project can be found in the Phase 3 Project module.
